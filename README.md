@@ -9,10 +9,12 @@ Enjoy reading, hiking and cycling.
 <br>
 
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/mohamed-alie-kamara-8765941a4">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2FKmohamedalie&currStreakNum=EB5454)](https://git.io/streak-stats)
-
-
+</div>
 
 <!--
 
