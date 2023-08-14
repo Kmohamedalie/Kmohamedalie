@@ -11,7 +11,15 @@ Master degree student at the university of Bologna, specializing in Digital Tran
 <div align="center">
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kmohamedalie&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--  [![trophy](https://github-profile-trophy.vercel.app/?username=Kmohamedalie&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kmohamedalie&theme=dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
+
+<!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kmohamedalie&theme=dracula&bg_color=45,0F2027,203A43,2C5364)](https://github.com/anuraghazra/github-readme-stats)
+
+ # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kmohamedalie&hide=html,css,xslt,makefile&langs_count=30&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 <br>
 
