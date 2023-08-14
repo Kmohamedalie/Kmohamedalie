@@ -1,8 +1,9 @@
 ## MOHAMED ALIE KAMARA    
 
 
-Master degree student at the university of Bologna, worked on over                                                    
-30 machine learning and deep learning projects,                      
+Master degree student at the university of Bologna,
+specializing in Digital Transformation Management,          
+worked on over 30 Machine Learning and Deep Learning projects,                      
 Enjoy reading, hiking and cycling.
 
 
