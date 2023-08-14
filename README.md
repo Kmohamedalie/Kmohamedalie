@@ -10,7 +10,7 @@ Enjoy reading, hiking and cycling.
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=https%3A%2F%2Fgithub.com%2FKmohamedalie&currStreakNum=EB5454)](https://git.io/streak-stats)
 
 
 
