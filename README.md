@@ -1,15 +1,14 @@
+
+
 ## MOHAMED ALIE KAMARA    
 
 
-Master degree student at the university of Bologna, specializing in                                                     
-Digital Transformation Management, worked on over                                        
-30 Machine Learning and Deep Learning projects,                                                                                             
-Enjoy reading, hiking and cycling.
+Master degree student at the university of Bologna, specializing in Digital Transformation Management, worked on over 30 Machine Learning and Deep Learning projects, Enjoy reading, hiking and cycling.
 
 
 <br>
 
-
+<div align="center">
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kmohamedalie&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -22,7 +21,7 @@ Enjoy reading, hiking and cycling.
   </a>
 
 
-
+</div>
 <!--
 
 Here are some ideas to get you started:
