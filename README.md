@@ -1,7 +1,7 @@
 
 
 ## MOHAMED ALIE KAMARA    
-
+ 
 
 Master degree student at the [university of Bologna](https://www.unibo.it/en), specializing in [Digital Transformation Management](https://corsi.unibo.it/2cycle/DigitalTransformationManagement), worked on over 30 projects including [Data Science](https://github.com/Kmohamedalie/Seoul-Bike-Sharing-Demand_Regression), [Business Intelligence](https://kmohamedalie.github.io/Business-Intelligence-Tableau/), [Machine Learning](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection) and [Deep Learning](https://github.com/Kmohamedalie/ZalanDo_Fashion-mnist), enjoy reading, hiking and cycling.
 
