@@ -32,7 +32,7 @@ Master degree student at the [university of Bologna](https://www.unibo.it/en), s
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kmohamedalie&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy) 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Kmohamedalie&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!--
 
