@@ -11,7 +11,7 @@ Master degree student at the [university of Bologna](https://www.unibo.it/en), s
   <a href="https://www.linkedin.com/in/mohamed-alie-kamara-8765941a4">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
+ 
 
 </div>
 
