@@ -1,7 +1,7 @@
 ## MOHAMED ALIE KAMARA       
   
 
-Master degree student at the [university of Bologna](https://www.unibo.it/en), specializing in [Digital Transformation Management](https://corsi.unibo.it/2cycle/DigitalTransformationManagement), with a focus on using Data to make sound business decision through [Data Science](https://github.com/Kmohamedalie/Seoul-Bike-Sharing-Demand_Regression), [Business Intelligence](https://kmohamedalie.github.io/Business-Intelligence-Tableau/), [Machine Learning](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection) and [Deep Learning](https://github.com/Kmohamedalie/ZalanDo_Fashion-mnist). I enjoy reading, hiking and cycling.
+Master degree student at the [university of Bologna](https://www.unibo.it/en), specializing in [Digital Transformation Management](https://corsi.unibo.it/2cycle/DigitalTransformationManagement), with a focus on using Data to make sound business decision through [Data Science](https://github.com/Kmohamedalie/Seoul-Bike-Sharing-Demand_Regression), [Business Intelligence](https://kmohamedalie.github.io/Business-Intelligence-Tableau/), [Machine Learning](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection), [Deep Learning](https://github.com/Kmohamedalie/ZalanDo_Fashion-mnist) and [Data Engineering](https://github.com/Kmohamedalie/Big-Data-Hadoop-Spark-lab). I enjoy reading, hiking, cycling and coding games([Tic-Tac-Toe](https://github.com/Kmohamedalie/Tic-Tac-Toe), [gsn](https://github.com/Kmohamedalie/gsn-game), [pg](https://github.com/Kmohamedalie/pig-game), [snake](https://github.com/Kmohamedalie/snake-game)) .
 
 <br>
  
