@@ -15,20 +15,31 @@ Master degree student at the [university of Bologna](https://www.unibo.it/en), s
 
 <br>
 
+
+<!--
 <div align="center">
 
  
 
+<br>
 
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kmohamedalie&theme=dark&date_format=[Y.]n.j)](https://git.io/streak-stats)-->
+<div align="center"> 
+<img align="center" width=315 src="https://awesome-github-stats.azurewebsites.net/user-stats/Kmohamedalie?cardType=level&theme=tokyonight&Border=FFFFFF00" />
+<img align="center" width=498 src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kmohamedalie&theme=tokyonight" />
+</div>
+
+
+<br>
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kmohamedalie&theme=dark&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
  
 
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kmohamedalie&theme=dracula&bg_color=45,0F2027,203A43,2C5364)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kmohamedalie&theme=dracula&bg_color=45,0F2027,203A43,2C5364)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- # [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kmohamedalie&hide=html,css,xslt,makefile&langs_count=30&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kmohamedalie&hide=html,css,xslt,makefile&langs_count=30&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+-->
 
 
 <br>
