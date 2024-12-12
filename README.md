@@ -5,7 +5,10 @@ Masters graduate🎓 in [Digital Transformation Management](https://corsi.unibo.
 
 <br>
 
-<b>Extras</b>:     Machine Learning in action and interactive web application using [Streamlit](https://share.streamlit.io/user/kmohamedalie).
+<b>Extras</b>:     
+             Data visualisation and Dashboarding with [Tableau](https://public.tableau.com/app/profile/mohamed.alie.kamara6326/vizzes).<br>
+             Machine Learning in action and interactive web application using [Streamlit](https://share.streamlit.io/user/kmohamedalie).
+             
 
 <br>
 <br>
