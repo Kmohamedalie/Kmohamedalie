@@ -6,7 +6,7 @@ Masters graduate🎓 in [Digital Transformation Management](https://corsi.unibo.
 <br>
 
 <b>Extras</b>:     
-             Data visualisation and Dashboarding with [Tableau](https://public.tableau.com/app/profile/mohamed.alie.kamara6326/vizzes).<br>
+             Data visualisation and Dashboarding with [Tableau](https://public.tableau.com/app/profile/mohamed.alie.kamara6326/vizzes) and [Power BI](https://github.com/Kmohamedalie/Adventure-Works).<br>
              Machine Learning in action and interactive web application using [Streamlit](https://share.streamlit.io/user/kmohamedalie).
              
 
