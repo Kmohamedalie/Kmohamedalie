@@ -11,7 +11,7 @@
              
 <div>
   
-<img align="right" src="https://github.com/Kmohamedalie/Kmohamedalie/blob/master/BI%20dashboarding.gif" width="250" >
+<img align="right" src="https://github.com/Kmohamedalie/Kmohamedalie/blob/master/BI%20dashboarding.gif" width="180" >
 
 </div>
 
@@ -20,7 +20,7 @@
 <br>
 
  
-<div id="badges" align="center">
+<div id="badges" align="left">
    <img src="https://media.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif" alt="alien waving hi" width="20"/>  <a href="https://www.linkedin.com/in/mohamed-alie-kamara-8765941a4">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
