@@ -12,7 +12,9 @@
              
 <div>
   
+<a href="https://kmohamedalie.github.io/Business-Intelligence-Portfolio/">
 <img align="right" src="https://github.com/Kmohamedalie/Kmohamedalie/blob/master/BI%20dashboarding.gif" width="180" >
+</a>
 
 </div>
 
