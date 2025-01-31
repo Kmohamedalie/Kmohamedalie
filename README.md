@@ -1,13 +1,14 @@
 ## MOHAMED ALIE KAMARA     
   
 
-[Digital Transformation Management](https://corsi.unibo.it/2cycle/DigitalTransformationManagement) graduate🎓 at the [university of Bologna](https://www.unibo.it/en), with a focus on using Data0️⃣1️⃣ to make sound business decision through [Data Science](https://github.com/Kmohamedalie/Seoul-Bike-Sharing-Demand_Regression), [Business Intelligence](https://kmohamedalie.github.io/Business-Intelligence-Tableau/), [Machine Learning](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection), [Deep Learning](https://github.com/Kmohamedalie/ZalanDo_Fashion-mnist) and [Data Engineering](https://github.com/Kmohamedalie/Big-Data-Hadoop-Spark-lab). I enjoy reading, hiking, cycling and coding [GAMES](https://kmohamedalie.github.io/Games/) ([Tic-Tac-Toe](https://github.com/Kmohamedalie/Tic-Tac-Toe), [gsn](https://github.com/Kmohamedalie/gsn-game), [pg](https://github.com/Kmohamedalie/pig-game), [snake](https://github.com/Kmohamedalie/snake-game)) .
+[Digital Transformation Management](https://corsi.unibo.it/2cycle/DigitalTransformationManagement) graduate🎓 at the [university of Bologna](https://www.unibo.it/en), with a focus on using Data0️⃣1️⃣ to make sound business decision through [Data Science](https://github.com/Kmohamedalie/Seoul-Bike-Sharing-Demand_Regression), [Business Intelligence](https://kmohamedalie.github.io/Business-Intelligence-Tableau/), [Machine Learning](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection), [Deep Learning](https://github.com/Kmohamedalie/ZalanDo_Fashion-mnist) and [Data Engineering](https://github.com/Kmohamedalie/Big-Data-Hadoop-Spark-lab). <br>
+             I enjoy reading, hiking, cycling and coding [GAMES](https://kmohamedalie.github.io/Games/), ([snake](https://github.com/Kmohamedalie/snake-game)) .
 
 <br>
 
 <b>Extras</b>:     
              Data visualisation and Dashboarding with [Tableau](https://public.tableau.com/app/profile/mohamed.alie.kamara6326/vizzes) and [Power BI](https://github.com/Kmohamedalie/Adventure-Works).<br>
-             Machine Learning in action and interactive web application using [Streamlit](https://share.streamlit.io/user/kmohamedalie).
+             Machine Learning in action and interactive web application using [Streamlit](https://share.streamlit.io/user/kmohamedalie). 
              
 <div>
   
