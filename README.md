@@ -1,7 +1,7 @@
 ## MOHAMED ALIE KAMARA     
   
 
-[Digital Transformation Management](https://corsi.unibo.it/2cycle/DigitalTransformationManagement) graduate🎓 at the [university of Bologna](https://www.unibo.it/en), with a focus on using Data0️⃣1️⃣ to make sound business decision through [Data Science](https://github.com/Kmohamedalie/Seoul-Bike-Sharing-Demand_Regression), [Business Intelligence](https://kmohamedalie.github.io/Business-Intelligence-Portfolio/), [Machine Learning](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection), [Deep Learning](https://github.com/Kmohamedalie/ZalanDo_Fashion-mnist) and [Data Engineering](https://github.com/Kmohamedalie/Big-Data-Hadoop-Spark-lab). <br>
+[Digital Transformation Management](https://corsi.unibo.it/2cycle/DigitalTransformationManagement) graduate🎓 at the [university of Bologna](https://www.unibo.it/en), with a focus on using Data0️⃣1️⃣ to make sound business decision through [Data Science](https://github.com/Kmohamedalie/DataScience-ML-AI-Portfolio), [Business Intelligence](https://github.com/Kmohamedalie/Business-Intelligence-Portfolio), [Machine Learning](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection), [Deep Learning](https://github.com/Kmohamedalie/ZalanDo_Fashion-mnist) and [Data Engineering](https://github.com/Kmohamedalie/Big-Data-Hadoop-Spark-lab). <br>
              I enjoy reading, hiking, cycling and coding [GAMES](https://kmohamedalie.github.io/Games/), ([snake](https://github.com/Kmohamedalie/snake-game)) .
 
 <br>
